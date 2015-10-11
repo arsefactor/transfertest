@@ -218,5 +218,7 @@ pip-log.txt
 #############
 ## Unity
 #############
-Library/
-Temp/
+Zoo/Library/
+Zoo/Temp/
+Zoo/*.sln
+Zoo/Zoo.sln
