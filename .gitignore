@@ -218,6 +218,6 @@ pip-log.txt
 #############
 ## Unity
 #############
-*/Library/
-*/Temp/
-*.sln
+Zoo/Library/
+Zoo/Temp/
+Zoo/*.sln
